@@ -2,7 +2,7 @@ class Airdrop < Formula
   desc "Simple description of airdrop"
   homepage "https://github.com/xvoland/airdrop"
   url "https://github.com/xvoland/airdrop/releases/download/v0.2.5/airdrop_darwin_arm64.tar.gz"
-  sha256 "e7a8990276b73f07d39dafa827fc95adbbce265ea253ad4c085e7ac643d1fab0"
+  sha256 "6f009421c79f76b372e4edb56dcf5aa7125cff9be132dc180bdf2ec211e2872a"
 
   def install
     bin.install "airdrop"
