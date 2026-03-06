@@ -2,9 +2,9 @@ class Airdrop < Formula
   desc "CLI Utility for Apple AirDrop"
   homepage "https://github.com/xvoland/airdrop"
   license "MIT"
-  version "0.3.5"
-  url "https://github.com/xvoland/airdrop/releases/download/v0.3.5/airdrop_darwin_arm64.tar.gz"
-  sha256 "fb7e5f4f6880766b0617add0a9f686dd297cfcbe22717add198f2ef622f2096b"
+  version "0.3.6"
+  url "https://github.com/xvoland/airdrop/releases/download/v0.3.6/airdrop_darwin_arm64.tar.gz"
+  sha256 "37420aed3a0a429086273e3480201a41cdb948ffd18e1484e50dc92b9f55e569"
 
   def install
     bin.install "airdrop"
