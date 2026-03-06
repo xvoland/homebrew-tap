@@ -4,7 +4,7 @@ class Airdrop < Formula
   license "MIT"
   version "0.3.5"
   url "https://github.com/xvoland/airdrop/releases/download/v0.3.5/airdrop_darwin_arm64.tar.gz"
-  sha256 "a5295c868574bae1892caa9b36c7140f3dc66485a6a31ecb4aec4d50ab8c5fd7"
+  sha256 "fb7e5f4f6880766b0617add0a9f686dd297cfcbe22717add198f2ef622f2096b"
 
   def install
     bin.install "airdrop"
